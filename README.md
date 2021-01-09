@@ -4,7 +4,7 @@
 
 ### - 🔭 I’m currently working on the monorepo for nwPlus
 
-### - 🌱 I’m currently learning HTML CSS JS AND Reacr
+### - 🌱 I’m currently learning HTML CSS JS AND React
 
 ### - 💬 Ask me about my business and experince learning both cs and business
 
