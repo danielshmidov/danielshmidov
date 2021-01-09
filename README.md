@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**danielshmidov/danielshmidov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here are some ideas to get you started:
 
-Here are some ideas to get you started:
+### - 🔭 I’m currently working on the monorepo for nwPlus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### - 🌱 I’m currently learning HTML CSS JS AND Reacr
+
+### - 💬 Ask me about my business and experince learning both cs and business
+
+### - 📫 How to reach me: daniel shmidov on linkedIN
+
+### - 😄 Pronouns: He/Him/His
+
+### - ⚡ Fun fact: Speaks 4 languages
