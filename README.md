@@ -13,3 +13,6 @@
 ### - 😄 Pronouns: He/Him/His
 
 ### - ⚡ Fun fact: Speaks 4 languages
+
+
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielshmidov)](https://github.com/anuraghazra/github-readme-stats)
